@@ -1,0 +1,72 @@
+div.box3 {
+    margin-top: 410px;
+    position: fixed;
+    border-top: 1px solid black;
+    border-bottom: 50px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    background-color: black;
+    width: 1520px;
+}
+
+.logo3
+{
+    margin-top: 414px;
+    margin-left: 50px;
+    position: fixed;
+    font-family: Verdana;
+    font-size: 18px;    
+    padding: 10px;
+    color: rgba(173,216,230,255);
+    background-color: black;
+}
+.op31
+{
+    margin-top: 416px;
+    margin-left: 1080px;
+    position: fixed;
+    font-family: Verdana;
+    font-size: 15px;
+    padding: 10px;
+    color: rgba(173,216,230,255);
+    background-color: black;
+
+}
+.op32
+{
+    margin-top: 416px;
+    margin-left: 1180px;
+    position: fixed;
+    font-family: Verdana;
+    font-size: 15px;
+    padding: 10px;
+    color: rgba(173,216,230,255);
+    background-color: black;
+
+}
+.op33
+{
+    margin-top: 416px;
+    margin-left: 1280px;
+    position: fixed;
+    font-family: Verdana;
+    font-size: 15px;
+    padding: 10px;
+    color: rgba(173,216,230,255);
+    background-color: black;
+
+}
+div.c3 {
+    margin-top: 420px;
+    margin-left: 1360px;
+    border-radius: 10px;
+    position: fixed;
+    font-family: Verdana;
+    font-size: 17px;
+    padding-top: 5px;
+    padding-left: 15px;  
+    padding-bottom: 5px;
+    padding-right: 15px;
+    color: white;
+    background-color: rgba(173,216,230,255);
+}

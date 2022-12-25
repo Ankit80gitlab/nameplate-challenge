@@ -1,0 +1,72 @@
+div.box2 {
+    margin-top: 250px;
+    position: fixed;
+    border-top: 1px solid black;
+    border-bottom: 50px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    background-color: black;
+    width: 1520px;
+}
+
+.logo2
+{
+    margin-top: 253px;
+    margin-left: 1320px;
+    position: fixed;
+    font-family: Verdana;
+    font-size: 18px;
+    padding: 10px;
+    color: rgba(173,216,230,255);
+    background-color: black;
+}
+.op21
+{
+    margin-top: 253px;
+    margin-left: 50px;
+    position: fixed;
+    font-family: Verdana;
+    font-size: 15px;
+    padding: 10px;
+    color: rgba(173,216,230,255);
+    background-color: black;
+
+}
+.op22
+{
+    margin-top: 253px;
+    margin-left: 150px;
+    position: fixed;
+    font-family: Verdana;
+    font-size: 15px;
+    padding: 10px;
+    color: rgba(173,216,230,255);
+    background-color: black;
+
+}
+.op23
+{
+    margin-top: 253px;
+    margin-left: 250px;
+    position: fixed;
+    font-family: Verdana;
+    font-size: 15px;
+    padding: 10px;
+    color: rgba(173,216,230,255);
+    background-color: black;
+
+}
+div.c2 {
+    margin-top: 260px;
+    margin-left: 700px;
+    border-radius: 10px;
+    position: fixed;
+    font-family: Verdana;
+    font-size: 17px;
+    padding-top: 5px;
+    padding-left: 15px;  
+    padding-bottom: 5px;
+    padding-right: 15px;
+    color: white;
+    background-color: rgba(173,216,230,255);
+}
